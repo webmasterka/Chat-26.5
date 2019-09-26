@@ -1,0 +1,13 @@
+.MessageForm {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+}
+
+.MessageInput {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid black;
+    font-size: 15px;
+    background-color: #eaeaea;
+}

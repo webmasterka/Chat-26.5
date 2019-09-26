@@ -1,0 +1,16 @@
+    .MessageList {
+        display: flex;
+        flex: 1;
+        flex-direction: column-reverse;
+        justify-content: flex-end;
+        padding: 20px;
+    }
+
+    .Message {
+        padding: 5px 20px;
+        background-color: #ee400e;
+        color: #fff;
+        margin: 5px;
+        border-radius: 30px;
+        align-self: flex-start;
+    }

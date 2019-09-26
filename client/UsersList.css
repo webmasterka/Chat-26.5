@@ -1,0 +1,23 @@
+.Users {
+    display: flex;
+    width: 25vw;
+    justify-content: flex-start;
+    flex-direction: column;
+    border-right: 1px solid #b3320b;
+}
+
+.UsersOnline {
+    padding: 20px;
+    text-align: center;
+    background: #ee400e;
+    color: #fff;
+    border-bottom: 1px solid;
+}
+
+.UsersList {
+    background: #ee400e;
+    border-radius: 30px;
+    align-self: flex-start;
+    padding: 10px 20px;
+    margin-left: 10px;
+}
